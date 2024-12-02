@@ -1,5 +1,4 @@
-<a align="center"> <img src="https://komarev.com/ghpvc/?username=biswanroy&label=Profile%20views&color=0e75b6&style=flat" alt="biswanroy](https://www.linkedin.com/in/bishwa-nath-roy-337715222/overlay/background-image/"</a>
-
+<a href="#"> <img src="https://media.licdn.com/dms/image/v2/D5616AQHBZpow1yNgyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732789689436?e=1738800000&v=beta&t=34QOQlRsdYjpG_JyY6DAr45a14zfVM8Irobyrw4aLxg" alt="banner"></a>
 <h1 align="center">Hi 👋, I'm Biswa Nath Roy</h1>
 <h3 align="center">Future-Ready WordPress Development with Clean, Professional Code</h3>
 
