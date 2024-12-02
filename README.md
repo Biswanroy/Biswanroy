@@ -1,3 +1,5 @@
+<a align="center"> <img src="https://komarev.com/ghpvc/?username=biswanroy&label=Profile%20views&color=0e75b6&style=flat" alt="biswanroy](https://www.linkedin.com/in/bishwa-nath-roy-337715222/overlay/background-image/"/> </a>
+
 <h1 align="center">Hi 👋, I'm Biswa Nath Roy</h1>
 <h3 align="center">Future-Ready WordPress Development with Clean, Professional Code</h3>
 
